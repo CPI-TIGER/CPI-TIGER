@@ -25,17 +25,17 @@
 
 ### 🖥️ Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
 </p>
 
 ### 💾 Databases
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sqlite.svg" alt="SQLite" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" alt="SQL Server" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" />
 </p>
 
 ---
@@ -44,9 +44,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CPI-TIGER&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="GitHub Stats" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CPI-TIGER&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPI-TIGER&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPI-TIGER&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 
 </div>
 
@@ -85,8 +85,8 @@
 ## 📡 Contact  
 
 <p align="center">
-  <a href="https://discord.com/users/cpi_tiger" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" style="vertical-align:middle; margin-right:10px;" />
+  <a href="https://discord.com/users/cpi_tiger" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" style="vertical-align:middle; margin-right:10px;" />
     <span style="font-size:1.2em; color:#7289DA;">cpi_tiger</span>
   </a>
 </p>
