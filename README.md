@@ -40,18 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CPI-TIGER&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPI-TIGER&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-
-</div>
-
----
-
 ## ✨ Cool Animations  
 
 ### 🔹 Coding Animation
@@ -86,7 +74,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/cpi_tiger" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" style="vertical-align:middle; margin-right:10px;" />
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg](https://icon-icons.com/icon/discord/122459)" alt="Discord" width="40" style="vertical-align:middle; margin-right:10px;" />
     <span style="font-size:1.2em; color:#7289DA;">cpi_tiger</span>
   </a>
 </p>
