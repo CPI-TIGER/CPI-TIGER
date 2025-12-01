@@ -1,4 +1,4 @@
-<!-- Neon Animated Header -->
+<!-- Header Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2800&color=00E5FF&center=true&vCenter=true&width=500&lines=Welcome+To+My+Galaxy!;I'm+CPI-TIGER;Full+Stack+Developer;Coding+Is+My+Instinct" alt="Typing Intro" />
 </h1>
@@ -14,7 +14,7 @@
 
 ## 🐅 About Me  
 
-🔥 Passionate Full-Stack Developer  
+🔥 Passionate Full‑Stack Developer  
 💠 Focused on **Python, Web Development & Databases**  
 🌑 Lover of Dark UI, Neon Design & Animated UI  
 🚀 Always Learning & Building  
@@ -34,7 +34,7 @@
   &nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite Icon" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-sql-server.svg" alt="SQL Server Icon" width="65" />
+  <img src="https://skillicons.dev/icons?i=mssql&theme=dark" alt="SQL Server Icon" />
 </p>
 
 ---
@@ -53,19 +53,19 @@
 
 ## ✨ Cool Animations  
 
-### 🔹 Coding Animation  
+### 🔹 Coding Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="300" />
 </p>
 
-### 🔹 Matrix-Style Rain Animation  
+### 🔹 Matrix‑Style Rain Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsksaurabh/matrix-rain-animation/master/matrix.gif" alt="Matrix Rain Animation" width="400" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
 </p>
@@ -85,6 +85,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/cpi_tiger">
-    <img src="https://img.shields.io/badge/Discord-cpi_tiger-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+    <img src="https://img.shields.io/badge/Discord‑cpi_tiger‑7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
 </p>
