@@ -40,18 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CPI-TIGER&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="GitHub Stats" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPI-TIGER&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
 ## ✨ Cool Animations  
 
 ### 🔹 Coding Animation
