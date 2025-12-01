@@ -23,23 +23,24 @@
 
 ## 🧰 Tech Stack  
 
-### 🖥️ Languages  
+### 🖥️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Languages Icons" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" />
 </p>
 
-### 💾 Databases  
+### 💾 Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL Icon" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite Icon" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mssql&theme=dark" alt="SQL Server Icon" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sqlite.svg" alt="SQLite" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" alt="SQL Server" width="40" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <div align="center">
 
